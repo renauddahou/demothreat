@@ -3,7 +3,19 @@
     "title": "Demo Thread Model"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "renaud",
+        "$$hashKey": "object:26"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "thrediag",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0,
+        "$$hashKey": "object:28"
+      }
+    ]
   }
 }
